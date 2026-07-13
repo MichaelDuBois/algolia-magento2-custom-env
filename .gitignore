@@ -1,0 +1,16 @@
+src/*
+!src/composer.json
+!src/composer.lock
+!src/app/
+src/app/*
+!src/app/etc/
+src/app/etc/*
+!src/app/etc/config.php
+!src/app/code/
+src/app/code/*
+!src/app/code/Algolia/
+src/app/code/Algolia/*
+!src/app/code/Algolia/CustomAlgolia/
+!src/app/code/Algolia/CustomAlgolia/**
+compose.versions.yaml
+.DS_Store

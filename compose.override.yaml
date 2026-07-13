@@ -1,0 +1,8 @@
+services:
+  db:
+    image: mariadb:11.4
+    volumes:
+      - dbdata114:/var/lib/mysql
+
+volumes:
+  dbdata114:
