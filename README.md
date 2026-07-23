@@ -1,4 +1,4 @@
-# About
+## About
 
 This repository includes a script that updates the `in_stock` value 
 independently of Algolia's standard indexing job.
