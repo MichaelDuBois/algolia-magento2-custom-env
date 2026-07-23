@@ -32,7 +32,7 @@ The custom script is located here:
 
 bin/cli env \
   MAGENTO_GRAPHQL_URL='https://your-magento-domain/graphql' \
-  MAGENTO_ACCESS_TOKEN='your-magento-bearer-token'
+  MAGENTO_ACCESS_TOKEN='your-magento-bearer-token' \
   ALGOLIA_APP_ID='your-app-id' \
   ALGOLIA_ADMIN_API_KEY='your-write-api-key' \
   ALGOLIA_INDEX_NAME='magento2_{store_code}_products' \
